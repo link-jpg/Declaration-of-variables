@@ -9,10 +9,9 @@ public class variables {
         cuartos = 2;
         double puerta;
         puerta = 1.75;
-        System.out.println(casa + "con" + cuartos
-                + "habitaciones"
+        System.out.println(casa + " con " + cuartos
+                + " habitaciones "
                 + " y una puerta de "
-                + puerta + "mts");
-
+                + puerta + " mts ");
     }
 }
